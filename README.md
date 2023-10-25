@@ -8,8 +8,8 @@ To run the game, you need to have a C++ compiler installed on your machine. The 
 
 1. Clone the repository to your local machine.
 2. Open a terminal and navigate to the project directory.
-3. Compile the code using the following command: g++ ttt.cpp ttt_functions.cpp -o ttt
-4. Run the compiled executable: ./ttt
+3. Compile the code using the following command: `g++ ttt.cpp ttt_functions.cpp -o ttt`
+4. Run the compiled executable: `./ttt`
 
 
 ## How to Play
