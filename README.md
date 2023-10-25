@@ -18,7 +18,7 @@ To run the game, you need to have a C++ compiler installed on your machine. The 
 2. The game board is displayed, showing the positions on the grid.
 3. Player 1 is prompted to choose between 'X' and 'O'.
 4. Player 2 automatically gets the opposite mark.
-5. Players take turns entering the position where they want to place their mark. This is done by choosing row then column. e.g. 12 places the mark in row 1 and column 2
+5. Players take turns entering the position where they want to place their mark. This is done by choosing the row number followed by the column number. For example, entering "12" places the mark in row 1 and column 2.
 6. The game board is updated after each turn.
 7. The game continues until one player wins or all positions are filled.
 8. After the game ends, players have the option to play again or quit.
